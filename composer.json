@@ -1,0 +1,16 @@
+{
+  "name": "funcraft/year",
+  "description": "Github like year statistic, but more detailed and colorful",
+  "authors":[
+    {
+      "name": "Funcraft",
+      "email": "what4me@ya.ru",
+      "role": "developer"
+    }
+  ],
+  "autoload": {
+    "psr4": {
+      "funcraft\\year\\": ""
+    }
+  }
+}
