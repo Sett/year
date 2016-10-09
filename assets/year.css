@@ -1,0 +1,176 @@
+.year{
+    display: table;
+    padding: 1px;
+    border: 1px solid #000000;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.year-legend{
+    width: 400px;
+    margin: 0 auto;
+}
+
+.year-legend-big{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.year-row{
+    display: table-row;
+}
+
+.year-column{
+    display: table-column;
+}
+
+.year-day{
+    display: table-cell;
+    border: 1px solid #ffffff;
+    width: 14px;
+    height: 14px;
+}
+
+.year-day:hover{
+    border: 1px solid #808080;
+    transition-duration: 0.5s;
+}
+
+.rnd1{
+    background: #57a2d6;
+}
+
+.rnd2{
+    background: #50617d;
+}
+
+.rnd3{
+    background: #69c0af;
+}
+
+.rnd4{
+    background: #43A599;
+}
+
+.grey{
+    background: #eeeeee;
+}
+
+.red{
+    background: #ff3333;
+}
+
+.orange{
+    background: #ff9900;
+}
+
+.yellow{
+    background: #cccc33;
+}
+
+.green{
+    background: #006633;
+}
+
+.cyan{
+    background: #6699ff;
+}
+
+.blue{
+    background: #0066cc;
+}
+
+.purple{
+    background: #ff00ff;
+}
+
+.empty{
+    background: #fff;
+}
+
+.redText{
+    color: #ff3333;
+}
+
+.orangeText{
+    color: #ff9900;
+}
+
+.yellowText{
+    color: #cccc33;
+}
+
+.greenText{
+    color: #006633;
+}
+
+.cyanText{
+    color: #6699ff;
+}
+
+.blueText{
+    color: #0066cc;
+}
+
+.purpleText{
+    color: #ff00ff;
+}
+
+.emptyText{
+    color: #fff;
+}
+
+.shadow-red{
+    box-shadow:         7px 7px 5px 0px rgba(255, 38, 3, 0.75);
+}
+
+.shadow-orange{
+    box-shadow:         7px 7px 5px 0px rgba(255, 130, 75, 0.75);
+}
+
+.shadow-yellow{
+    box-shadow:         7px 7px 5px 0px rgba(255, 196, 3, 0.75);
+}
+
+.shadow-green{
+    box-shadow:         7px 7px 5px 0px rgba(0, 155, 3, 0.75);
+}
+
+.shadow-cyan{
+    box-shadow:         7px 7px 5px 0px rgba(8, 196, 255, 0.75);
+}
+
+.shadow-blue{
+    box-shadow:         7px 7px 5px 0px rgba(8, 72, 255, 0.75);
+}
+
+.shadow-violett{
+    box-shadow:         7px 7px 5px 0px rgba(173, 72, 255, 0.75);
+}
+
+.shadow-grey{
+    box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+.example{
+    width: 14px;
+    height: 14px;
+    display: block;
+    float: left;
+}
+
+.weekDay{
+    font-size: 8px;
+    text-align: center;
+}
+
+.month-start{
+    font-size: 9px;
+    vertical-align: middle;
+    display: block;
+    position: absolute;
+}
+
+.month-middle{
+    border: 0;
+}
